@@ -1,0 +1,16 @@
+Welcome to Mellow Meadow. Run, jump and reach the goal in this short & sweet retro 2D platformer!
+
+Featuring:
+
+ •Tight controls to make movement endlessly fun.
+ •4 varied levels of escalating difficulty.
+ •An endgame ranking system - can you 100% the game in under 3 minutes without dying?
+ •Music and control options to suit your preferences.
+
+Game, including music and SFX, by me.
+
+Happy Halloween!
+
+#platformer #retro #pixelart #pico8 #halloween
+
+(Link: https://bit.ly/2TCudrg)
